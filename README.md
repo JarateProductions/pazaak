@@ -1,1 +1,1 @@
-"# pazaak" 
+A simple pazaak game
