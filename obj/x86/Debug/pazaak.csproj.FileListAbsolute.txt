@@ -1,0 +1,12 @@
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\obj\x86\Debug\pazaak.frmMain.resources
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\obj\x86\Debug\pazaak.Properties.Resources.resources
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\obj\x86\Debug\pazaak.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\obj\x86\Debug\pazaak.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\bin\Debug\Pazaak 1.0 RC3.exe.manifest
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\bin\Debug\Pazaak 1.0 RC3.application
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\bin\Debug\Pazaak 1.0 RC3.exe
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\bin\Debug\Pazaak 1.0 RC3.pdb
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\obj\x86\Debug\Pazaak 1.0 RC3.exe.manifest
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\obj\x86\Debug\Pazaak 1.0 RC3.application
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\obj\x86\Debug\Pazaak 1.0 RC3.exe
+C:\Users\Matthew\Documents\Programming\2\Projects\Personal\pazaak\pazaak\obj\x86\Debug\Pazaak 1.0 RC3.pdb
